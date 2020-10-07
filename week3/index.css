@@ -1,0 +1,39 @@
+h1 {
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img {
+    float: left;
+    padding-right: 45px;
+    padding-bottom: 5px;
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+#head {
+    background-color: lawngreen;
+}
+h5 {
+    text-transform: uppercase;
+    text-align: left;
+}
+.ul {
+    color: red;
+    background-color: black;
+}
+.parent > p {
+    font-family: cursive;
+    color: white;
+    background-color: black;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: purple
+}
+a:hover {
+    text-decoration: underline;
+}
