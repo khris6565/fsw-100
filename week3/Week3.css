@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+table, th, td, tr {
+    border: 1x solid black;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: chocolate;
+}
+#h3 {
+    color: blue;
+}
+#footer {
+    color: red;
+}
