@@ -1,0 +1,83 @@
+.navbar {
+    color: brown;
+    width: 550px;
+    background-color:tan;
+    position: fixed;
+    font-size: 20px;
+}
+#home {
+    position: relative;
+    left: 100px;
+    text-decoration: none;
+}
+#articles {
+    position: relative;
+    left: 200px;
+    text-decoration: none;
+}
+#contact {
+    position: relative;
+    left: 300px;
+    text-decoration: none;
+}
+.main {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 25px;
+    background-color: tan;
+}
+#article1 {
+    border: 1px;
+    padding-bottom: 35px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-color: brown;
+}
+#article2 {
+    border: 1px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-color: brown;
+}
+#article3 {
+    border: 1px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-color: brown;
+}
+#article1 > img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+#article2 > img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+#article3 > img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
