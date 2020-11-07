@@ -1,0 +1,36 @@
+.flex-container {
+    display: flex;
+    background-color: maroon;
+}
+.flex-container > div {
+    background-color: grey;
+    margin: 10px;
+    padding: 20px;
+}
+#box1:hover {
+    background-color: hotpink;
+    border: 5px;
+    border-radius: 15px 50px;
+}
+#box2:hover {
+    width: 300px;
+    height: 300px;
+    color: red;    
+}
+#box3:hover {
+    box-shadow: 20px 20px 50px 15px greenyellow;
+    opacity: 1.0;
+}
+#box4:hover {
+    background-color: greenyellow;
+    box-shadow: 5px 10px 18px grey;   
+}
+#box5:hover {
+    border-radius: 15px 50px 30px 5px;
+    width: 200px;
+    height: 200px   
+}
+#box6:hover {
+    position: absolute;
+    border-radius: 15px;  
+}
